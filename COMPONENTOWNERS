@@ -1,0 +1,51 @@
+# COMPONENTOWNERS
+# Ownership for Storybook components and groups
+
+##################################################
+# 🧑‍💻 Fallback (must come first — last match wins)
+##################################################
+
+*                                             joaocontadesenvolvimento@gmail.com # This is the project owner and will default to him
+
+##################################################
+# 🎨 Design System Core — Forms & Date/Time
+##################################################
+
+Components/Form/*                             carlos.alberto.fulgrim@gmail.com # Fulgrim will be updated to owner shortly (still in the vetting process)
+Components/Form/Input/*                       carlos.alberto.fulgrim@gmail.com joaocontadesenvolvimento@gmail.com
+Components/Combobox/*                         carlos.alberto.fulgrim@gmail.com
+Components/Calendar/*                         carlos.alberto.fulgrim@gmail.com
+Components/DatePicker/*                       carlos.alberto.fulgrim@gmail.com
+
+##################################################
+# 🧭 Navigation & Layout
+##################################################
+#This is a wrong comment for testing purposes
+
+Components/Accordion/*                       alfredo.afarius@gmail.com
+Components/AspectRatio/*                     alfredo.afarius@gmail.com
+Components/Collapsible/*                     alfredo.afarius@gmail.com
+Components/Divider/*                         alfredo.afarius@gmail.com
+Components/Footer/*                          alfredo.afarius@gmail.com
+
+##################################################
+# 🖱️ Actions & Menus
+##################################################
+
+# This is a correct comment
+# Alfarius will taking Ownership shortly of these components
+Components/Button/*                           alfredo.afarius@gmail.com # Don't forget to move Ownership
+Components/Avatar/*                           alfredo.afarius@gmail.com
+Components/DropDownMenu/*                     alfredo.afarius@gmail.com
+
+##################################################
+# ✨ Animations
+##################################################
+
+Animations/*                                joaocontadesenvolvimento@gmail.com
+
+##################################################
+# 📚 Story-level overrides
+##################################################
+
+Components/Form/Input/Default              joaocontadesenvolvimento@gmail.com
