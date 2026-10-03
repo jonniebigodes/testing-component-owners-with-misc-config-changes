@@ -14,8 +14,8 @@
 Components/Form/*                             carlos.alberto.fulgrim@gmail.com # Fulgrim will be updated to owner shortly (still in the vetting process)
 Components/Form/Input/*                       carlos.alberto.fulgrim@gmail.com joaocontadesenvolvimento@gmail.com
 Components/Combobox/*                         carlos.alberto.fulgrim@gmail.com
-Components/Calendar/*                         carlos.alberto.fulgrim@gmail.com
-Components/DatePicker/*                       carlos.alberto.fulgrim@gmail.com
+Components/Calendar/*                         carlos.alberto.fulgrim@gmail.com # Fulgrim will be updated to owner shortly (still in the vetting process)
+Components/DatePicker/*                       carlos.alberto.fulgrim@gmail.com # Fulgrim will be updated to owner shortly (still in the vetting process)
 
 ##################################################
 # 🧭 Navigation & Layout
@@ -26,7 +26,7 @@ Components/Accordion/*                       alfredo.afarius@gmail.com
 Components/AspectRatio/*                     alfredo.afarius@gmail.com
 Components/Collapsible/*                     alfredo.afarius@gmail.com
 Components/Divider/*                         alfredo.afarius@gmail.com
-Components/Footer/*                          alfredo.afarius@gmail.com
+Components/Footer/*                          alfredo.afarius@gmail.com # Don't forget to move Ownership
 
 ##################################################
 # 🖱️ Actions & Menus
